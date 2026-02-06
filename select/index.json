@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Smalltown Boy",
+  "base_artist": "Bronski Beat",
+  "createdAt": "2026-02-06T08:32:13.132225Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Smalltown Boy",
+      "artist": "Bronski Beat",
+      "has_synced": true,
+      "path": "select/01_Smalltown_Boy_Bronski_Beat.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Smalltown Boy",
+      "artist": "Bronski Beat",
+      "has_synced": true,
+      "path": "select/02_Smalltown_Boy_Bronski_Beat.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Smalltown Boy",
+      "artist": "Bronski Beat",
+      "has_synced": true,
+      "path": "select/03_Smalltown_Boy_Bronski_Beat.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Smalltown Boy (Arnaud Rebotini Remix)",
+      "artist": "Bronski Beat feat. Arnaud Rebotini",
+      "has_synced": true,
+      "path": "select/04_Smalltown_Boy_(Arnaud_Rebotini_Remix)_Bronski_Beat_feat._Arnaud_Rebotini.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Smalltown Boy (Arnaud Rebotini remix)",
+      "artist": "Bronski Beat",
+      "has_synced": true,
+      "path": "select/05_Smalltown_Boy_(Arnaud_Rebotini_remix)_Bronski_Beat.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Smalltown Boy",
+      "artist": "Delain",
+      "has_synced": true,
+      "path": "select/06_Smalltown_Boy_Delain.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Smalltown Boy",
+      "artist": "Delain",
+      "has_synced": true,
+      "path": "select/07_Smalltown_Boy_Delain.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Smalltown boy",
+      "artist": "Bronski Beat",
+      "has_synced": true,
+      "path": "select/08_Smalltown_boy_Bronski_Beat.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Smalltown Boy '94",
+      "artist": "Bronski Beat",
+      "has_synced": false,
+      "path": "select/09_Smalltown_Boy_'94_Bronski_Beat.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Smalltown Boy",
+      "artist": "José González",
+      "has_synced": false,
+      "path": "select/10_Smalltown_Boy_José_González.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Smalltown Boy - 12\" Version",
+      "artist": "Bronski Beat",
+      "has_synced": true,
+      "path": "select/11_Smalltown_Boy_-_12__Version_Bronski_Beat.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Smalltown Boy (12'' Version)",
+      "artist": "Bronski Beat",
+      "has_synced": true,
+      "path": "select/12_Smalltown_Boy_(12''_Version)_Bronski_Beat.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Runaway (Smalltown Boy)",
+      "artist": "Kate Ryan",
+      "has_synced": true,
+      "path": "select/13_Runaway_(Smalltown_Boy)_Kate_Ryan.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Smalltown Boy",
+      "artist": "Bronski Beat",
+      "has_synced": true,
+      "path": "select/14_Smalltown_Boy_Bronski_Beat.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Smalltown Boy",
+      "artist": "Bronski Beat",
+      "has_synced": false,
+      "path": "select/15_Smalltown_Boy_Bronski_Beat.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Smalltown Boy",
+      "artist": "Bronski Beat",
+      "has_synced": false,
+      "path": "select/pl_01_Smalltown_Boy_Bronski_Beat.txt"
+    }
+  ]
+}
